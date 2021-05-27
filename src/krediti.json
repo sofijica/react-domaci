@@ -1,0 +1,29 @@
+[
+    {
+        "tip": "stambeni",
+        "id": 1,
+        "kamata": 4,
+        "min": 10000,
+        "max": 1000000,
+        "minGodine": 10,
+        "maxGodine": 35
+    },
+    {
+        "tip": "kes",
+        "id": 2,
+        "kamata": 12,
+        "min": 1000,
+        "max": 20000,
+        "minGodine": 2,
+        "maxGodine": 5
+    },
+    {
+        "tip": "brzi",
+        "id": 3,
+        "kamata": 17,
+        "min": 200,
+        "max": 1000,
+        "minGodine": 1,
+        "maxGodine": 2
+    }
+]
